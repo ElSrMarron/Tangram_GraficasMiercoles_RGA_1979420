@@ -1,0 +1,4 @@
+﻿  glad.c
+  Source.cpp
+C:\Users\USER\source\repos\Project4\Project4\Source.cpp(190,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Project4.vcxproj -> C:\Users\USER\source\repos\Project4\x64\Debug\Project4.exe
